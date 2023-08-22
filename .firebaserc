@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "blueskies-6b2f3": {
+      "hosting": {
+        "cive-ms": [
+          "hellwings"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "blueskies-6b2f3"
+  }
+}
